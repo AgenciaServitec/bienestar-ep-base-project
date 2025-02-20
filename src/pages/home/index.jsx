@@ -43,7 +43,7 @@ const Container = styled.div`
     margin: 2rem auto 0;
   }
   button {
-    font-weight: 200 !important;
+    font-weight: 400 !important;
   }
 
   .content-center {
